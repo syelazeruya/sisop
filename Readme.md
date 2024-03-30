@@ -446,7 +446,7 @@ esac
 
 Mengakhiri struktur case.
 
-### 'Revisi'
+### `Revisi`
 Kendala yang terjadi saat demo adalah tidak bisa menampilkan menu admin, sehingga diperlukan revisi untuk memperbaiki kode pada skrip login.sh
 
 Kesalahan terjadi karena kesalahan saat menuliskan fungsi yang seharusnya 'admin_menu', namun yang tertulis adalah 'admin_actions'.
@@ -473,7 +473,7 @@ Kesalahan terjadi karena kesalahan saat menuliskan fungsi yang seharusnya 'admin
         ;;
 ```
 
-### 'Dokumentasi'
+### `Dokumentasi`
 ![Gambar WhatsApp 2024-03-30 pukul 20 32 39_2849ca53](https://github.com/syelazeruya/sisop/assets/151950309/fa570a29-91e2-4717-8604-cb645dc471c6)
 
 
